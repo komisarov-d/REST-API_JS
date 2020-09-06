@@ -23,6 +23,7 @@
   "homepage": "https://github.com/komisarov-d/REST-API_JS#readme",
   "dependencies": {
     "express": "^4.17.1",
+    "uuid": "^8.3.0",
     "vue": "^2.6.12"
   },
   "devDependencies": {
