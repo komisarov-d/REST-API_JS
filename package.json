@@ -1,0 +1,31 @@
+{
+  "name": "rest-api_js",
+  "version": "1.0.0",
+  "description": "rest api",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/komisarov-d/REST-API_JS.git"
+  },
+  "keywords": [
+    "js",
+    "rest"
+  ],
+  "author": "Komisarov <komisarov.dev@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/komisarov-d/REST-API_JS/issues"
+  },
+  "homepage": "https://github.com/komisarov-d/REST-API_JS#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "vue": "^2.6.12"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
